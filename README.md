@@ -8,15 +8,6 @@
 
 ### Local
 
-- If new project (not fork):
-  - Copy [clasessalsaybachata.es project files](https://github.com/clasessalsaybachata/clasessalsaybachata.es)
-  - `git submodule add https://github.com/seacomoseo/sansoul.git themes/sansoul`
-- Else if fork:
-  - Download submódule theme files: `git submodule update --init --recursive`
-- If you want use svg emojies:
-  - `git submodule add https://github.com/seacomoseo/sansoul-emojies.git layouts/partials/svg/emojis`
-- Now you can see the run project in the browser with the `do server` comand
-- `README.md` ⏩ edit baseURL ("clasessalsaybachata.es") + delete steps bit by bit
 - Design
   - You can edit any file with the same structure of theme sansoul
   - GENERAL
