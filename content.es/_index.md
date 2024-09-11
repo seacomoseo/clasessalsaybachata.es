@@ -1,7 +1,7 @@
 ---
 title: Inicio
 slug: inicio
-image: carteles/horarios-2024-2025.png
+image: carteles/horarios-2024-2025.jpg
 translationKey: home
 
 seo: 🪇 Clases de Salsa y Bachata en Murcia 💃🏻🕺🏻
@@ -55,7 +55,20 @@ nif: 48650504F
 email: zepoman.z@gmail.com
 summary: Disfruta de un ambiente genial donde conectar y socializar mientras aprendes a bailar salsa y bachata sudando de alegría.
 logo: base/icon.svg
-images: []
+images:
+- carteles/horarios-2024-2025.jpg
+- carteles/horarios-2024-2025-murcia.jpg
+- carteles/horarios-2024-2025-el-palmar.jpg
+- profesor-zepo.png
+- poster/zepo-y-gloria-bailando-salsa-en-benidorm-summer.jpg
+- poster/zepo-bailando-salsa-en-benidorm-summer.jpg
+- poster/zepo-bailando-salsa-en-sala-bubaloo-2.jpg
+- poster/zepo-bailando-salsa-en-sala-bubaloo.jpg
+- poster/zepo-bailando-salsa-en-benidorm-summer-en-zona-piscina.jpg
+- poster/zepo-bailando-bachata-en-sbk-champions.jpg
+- poster/header.webm
+- poster/header.jpg
+- poster/clases-de-salsa-en-el-palmar-murcia.jpg
 social:
 - https://g.page/r/CQI3T3wmeAB6EBM
 - https://www.facebook.com/people/Salsa-Bachata-Murcia-Zepo/61564461346298/
