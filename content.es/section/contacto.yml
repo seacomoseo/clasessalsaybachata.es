@@ -1,46 +1,56 @@
 name: Contacto
 title: Contacto
-subtitle: ¿En qué podemos ayudarte?
-icon: paper-plane
+subtitle: Dígamelón
 menu_button: link
+
+color: white
+divider: squares
+flip_x: true
+pt: 8
+pb: 8
+
 box:
   columns: 2
+  gap: 3
+  gap_ny: 3
 boxes:
-- social:
-  - link: https://www.facebook.com/QuantumFracture
-  - link: https://www.instagram.com/quantumfracture/
-  - link: https://www.youtube.com/channel/UCbdSYaPD-lr1kW27UJuk8Pw
-  - link: https://twitter.com/QuantumFracture
-  - link: https://www.linkedin.com/company/quantum-fracture
-  - link: https://github.com/lorensansol
-  - link: https://mastersoflol.com/collections/quantumfracture?YTC
-  contact:
-  - type: schedule
-    days: Lunes a Viernes
-    hours: 9:00 - 12:30 y 14:30 - 20:00
-    full: true
+- contact:
+  # - type: schedule
+  #   days: Lunes y Miércoles
+  #   hours: '{{% param open.0.opens %}} - {{% param open.0.closes %}}'
+  # - type: schedule
+  #   days: Martes y Jueves
+  #   hours: '{{% param open.1.opens %}} - {{% param open.1.closes %}}'
+  #   full: true
   - type: phone
-    label: 111 222 333
+    label: 696 613 665
+    button: main
   - type: whatsapp
-    label: 111 222 333
-    button: link
-  - type: mail
-    label: info@sansoul.es
-    full: true
+    label: 696 613 665
   - type: address
-    label: Ronda de Levante, 1, 30008 Murcia
-    anchor: Sea Como SEO, Ronda de Levante, 1, 30008 Murcia
+    label: C. Abenarabi, 5, 30008, Murcia
+    anchor: Escuela de artistas Irene, C. Abenarabi, 5, 30008, Murcia
+    button: light
+  - type: address
+    label: Cl. Lorca, 44, Bajo, 30120 El Palmar
+    anchor: ActivaT Centro Entrenamiento El Palmar, Cl. Lorca, 44, Bajo, 30120 Murcia
+    button: light
   inputs:
   - type: text
     name: Nombre
     required: true
   - type: tel
     name: Teléfono
+    required: true
   - type: email
     name: Email
     required: true
   - type: textarea
     name: Mensaje
     required: true
-- view: map
-  map: Sea Como SEO, Ronda de Levante, 1, 30008 Murcia
+- hanchor: Academia de baile con clases de salsa y bachata en Murcia junto al Zig Zag
+  bg: mapa.png
+  link: https://www.google.com/maps/d/viewer?mid=1SfBJDZSTWQ0TkqkEqNYavTOTz0aQyRA
+  # ofuscate: true
+  rate: 1x1
+  button: hide

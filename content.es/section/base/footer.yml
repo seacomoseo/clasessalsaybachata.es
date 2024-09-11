@@ -1,9 +1,19 @@
 name: Pie
-divider: curve-side
-description: |
-  - icon-copyright      {{< internal-link index >}}
-  - icon-scale-balanced {{< internal-link legal >}}
-  - icon-shield-keyhole {{< internal-link privacy >}}
-  - icon-cookie-bite    {{< internal-link cookies >}}
-  - icon-seacomoseo     {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
-  {.list-inline}
+divider: squares
+color: dark
+# pt: 0
+box:
+  gap: 1
+boxes:
+- social:
+  - link: https://g.page/r/CQI3T3wmeAB6EBM
+  - link: https://www.facebook.com/people/Salsa-Bachata-Murcia-Zepo/61564461346298/
+  - link: https://www.youtube.com/@clasessalsaybachata
+  - link: https://www.instagram.com/zeposansol/
+- content: |
+    - icon:copyright      {{< internal-link index >}}
+    - icon:scale-balanced {{< internal-link legal >}}
+    - icon:shield-keyhole {{< internal-link privacy >}}
+    - icon:cookie-bite    {{< internal-link cookies >}}
+    - icon:seacomoseo     {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
+    {.list-inline}

@@ -1,42 +1,109 @@
 ---
 title: Inicio
-seo: ''
 slug: inicio
-description: llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol ☎️ 123 456 789.
-image: fondo.jpg
+image: carteles/horarios-2024-2025.png
 translationKey: home
+
+seo: 🪇 Clases de Salsa y Bachata en Murcia 💃🏻🕺🏻
+description: Disfruta de un ambiente genial donde conectar y socializar mientras aprendes a bailar y sudas de alegría. ¡Reserva tu clase gratis hoy! ☎️ 696 613 665
 
 menu:
   logo: false
   sticky: auto
-  size: ''
+  size: sm
   show_sections: true
-  show_modals: true
 callnow:
   show: auto
-section:
-- underline: true
+modal:
+  color: dark
+  icon_type: top
+  underline: true
   uppercase: true
-  alpha: .7
+section:
+- size: lg
+  underline: true
+  uppercase: true
+  color: dark
+  gradient_type: linear-bl
   parallax: fix
-  divider: curve-side
-  flip_x: false
-  flip_y: false
-- color: white
-  flip_x: true
-  flip_y: true
+  divider: squares
 
 sections:
 - file: _header
-- file: nosotros
-- file: servicios
   modals:
-  - file: ejemplo
-- file: proceso
-- file: fotos
-- file: noticias
-- file: faq
+  - file: promocion
+- file: videos
+- file: razones
+- file: horarios
+- file: profesor
 - file: resenas
+- file: faq
 - file: contacto
-- file: mapa
+
+base: organization
+types:
+- LocalBusiness
+- Organization
+names:
+- 🪇 Clases de Salsa y Bachata en Murcia 💃🏻🕺🏻
+- Clases de Salsa y Bachata en Murcia
+- 🪇 Clases de Salsa y Bachata en Murcia
+- Clases de Salsa y Bachata en Murcia 💃🏻🕺🏻
+- 🥇 Clases de Salsa y Bachata en Murcia 【Bailes Latinos】
+legal: CLASES SALSA Y BACHATA
+nif: 48650504F
+email: zepoman.z@gmail.com
+summary: Disfruta de un ambiente genial donde conectar y socializar mientras aprendes a bailar salsa y bachata sudando de alegría.
+logo: base/icon.svg
+images: []
+social:
+- https://g.page/r/CQI3T3wmeAB6EBM
+- https://www.facebook.com/people/Salsa-Bachata-Murcia-Zepo/61564461346298/
+- https://www.youtube.com/@clasessalsaybachata
+- https://www.instagram.com/zeposansol/
+phones:
+- 696 613 665
+address:
+  name: 🪇 Clases de Salsa y Bachata en Murcia 💃🏻🕺🏻
+  street: C. Abenarabi, 5
+  cp: '30008'
+  locality: Murcia
+  region: Murcia
+  country: ES
+  geo: '{"type":"Point","coordinates":[-1.1304022,37.9973732]}'
+  link: https://g.page/r/CQI3T3wmeAB6EBM
+areas:
+- Murcia
+- Zig-Zag
+- El Palmar
+- Molina de Segura
+- Altoreal
+- Loquí
+open:
+- days:
+  - monday
+  - wednesday
+  opens: 20:00
+  closes: 22:00
+- days:
+  - tuesday
+  - thursday
+  opens: 20:00
+  closes: 23:00
+prices: €€
+services:
+- title: Clases de Salsa y Bachata en Murcia
+  area: Murcia
+- title: Clases de Salsa y Bachata en Molina de Segura
+  area: Molina de Segura, Murcia
+  url: https://clasessalsaybachata.es/molina-de-segura/
+- title: Clases de Salsa y Bachata en Altoreal
+  area: Altoreal, Murcia
+  url: https://clasessalsaybachata.es/altoreal/
+- title: Clases de Salsa y Bachata en Loquí
+  area: Loquí, Murcia
+  url: https://clasessalsaybachata.es/lorqui/
+
+anchor: Murcia
+
 ---

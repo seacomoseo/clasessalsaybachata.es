@@ -3,8 +3,18 @@ background:
 menu:
   logo: true
   logo_align: center
+  color: light
   transparent: true
   size: sm
+  hide_icons: true
+  es:
+    image: base/icon.svg
+    subtitle: Clases de Salsa y Bachata en Murcia
+modal:
+  color: dark
+  icon_type: top
+  underline: true
+  uppercase: true
 lists:
   columns: 3
   declive: true

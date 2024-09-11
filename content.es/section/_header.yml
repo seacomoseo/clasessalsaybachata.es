@@ -1,17 +1,22 @@
 name: Cabecera
-hanchor: SanSoul Hugo Theme
-color: main-dark
-bg: fondo.jpg
+hanchor: 🪇 Clases de Salsa y Bachata en {{% param anchor %}} 💃🏻🕺🏻
 full: true
+pt: 6
+bg: poster/header.webm
+alpha: .7
+
 boxes:
-- image: base/logo.svg
-  span: .125
-  span_min: .5
-- title: SanSoul Hugo Theme
+- span: .4
+  title: Clases de <br> Salsa y Bachata
   hn: p
   hs: 0
-  subtitle: SanSoul es un tema de Hugo con alma para webs de servicios por lorensansol
-  description: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  subtitle: en {{% param anchor %}}
+  content: |
+    ¿Te gustaría ==icon:sign-simple hacerlo to polvo== bailando?
 
-    [btn icon-plus Más](#nosotros)
+    Disfruta de un ambiente genial donde conectar y socializar
+    mientras aprendes y sudas de alegría
+
+    [btn Solicita tu clase gratis](#promocion)
+
+    [btn:icon-light icon:play Youtube](#videos)

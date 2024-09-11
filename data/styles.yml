@@ -1,26 +1,26 @@
 icons:
   type: solid
-  sharp: true
+  sharp: false
   emojis: ''
   emojis_default: false
 fonts:
-  google: true
+  google: false
   base:
-    family: Montserrat
+    family: Bahnschrift
     weight: 400
     bold: 0
     italic: false
     line_height: 1.25
   cursive:
-    family: Dancing Script
-    weight: 400
+    family: Outfit
+    weight: 700
     bold: 0
     italic: false
     line_height: 1.25
     size: 1
     top: 0
   title:
-    family: Montserrat
+    family: Outfit
     weight: 800
     bold: 0
     italic: false
@@ -30,7 +30,7 @@ fonts:
   blockquote_cursive: true
 colors:
   main:
-    color: '#bdd5ea'
+    color: '#f6bc15'
     light: ''
     dark: ''
     contrast: text
@@ -40,7 +40,7 @@ colors:
     dark: ''
     contrast: all
   link:
-    color: '#fe5f55'
+    color: ''
     light: ''
     dark: ''
     contrast: text
@@ -48,19 +48,19 @@ colors:
     white: '#fff'
     light: '#eee'
     grey: '#767676'
-    dark: '#282525'
+    dark: '#282828'
     black: '#000'
 rounded:
-  radius: 0.33
-  chamfer: true
+  radius: 1.33
+  chamfer: false
 buttons:
   sides_round: false
   icon_circle: false
   deep: true
   outline: false
   font_main:
-    type: base
-    bold: true
+    type: cursive
+    bold: false
     uppercase: true
   font_alt:
     type: base

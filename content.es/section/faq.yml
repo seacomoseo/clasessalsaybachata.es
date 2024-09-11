@@ -1,15 +1,19 @@
 name: FAQ
 title: FAQ
 subtitle: Preguntas Frecuentes
-icon: circle-question
-size: md
+size: xs
+
+color: dark
+divider: tilt-op-alt
+flip_y: true
+pb: 6
+
+collapsible:
+  font_alt: true
 collapsibles:
-- title: ¿Una pregunta de ejemplo?
-  description: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- title: ¿Otra pregunta de ejemplo?
-  description: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- title: ¿Otra pregunta más de ejemplo?
-  description: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- title: ¿Necesito experiencia previa para unirme?
+  content: No, nuestras clases están diseñadas para todos los niveles, desde principiantes hasta avanzados.
+- title: ¿Necesito ir en pareja?
+  content: No, organizamos las clases para mantener un balance entre chicos y chicas, así que puedes venir solo/a.
+- title: ¿Cuál es el coste de las clases?
+  content: Ofrecemos diferentes paquetes adaptados a tus necesidades. [Contacta](#contacto) para más detalles.

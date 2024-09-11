@@ -1,13 +1,11 @@
 // Header 
-#body-inicio #header {
-  @mixin show-from($delay) { animation: show-from .5s (.5 + .25s * $delay) both; }
+#body-home #header {
+  @mixin show-from($delay) { animation: show-from .5s (.125s * $delay) both; }
   .image                   { @include show-from(0); --show-from: scale(3); }
   .box__title              { @include show-from(1); }
   .subtitle                { @include show-from(2); }
-  .description p           { @include show-from(3); }
-  .description .buttons    { @include show-from(4); }
-
-  .image path {
-    fill: var(--text);
-  }
+  .content p:nth-child(1)  { @include show-from(3); }
+  .content p:nth-child(2)  { @include show-from(4); }
+  .content p:nth-child(3)  { @include show-from(5); }
+  .content p:nth-child(4)  { @include show-from(6); }
 }

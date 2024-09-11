@@ -1,0 +1,35 @@
+name: Promoción
+title: Promoción
+bg: profesor-zepo.png
+alpha: .75
+size: xs
+align: center
+icon: crown
+price: 1ª clase gratis
+content: |
+  Escríbeme al WhatsApp con el texto
+
+  **==CLASE GRATIS==**
+
+  para canjear una clase de prueba gratuita \
+  (si no vuelves)
+
+  [btn:whatsapp icon:whatsapp ¡Quiero una clase gratis!](https://wa.me/34696613665?text=CLASE%20GRATIS "nofollow")
+
+box:
+  columns: 1
+boxes:
+- title: ¿Cómo funciona?
+  step:
+    # underline: true
+    icon_size: 1
+  steps:
+  - icon: calendar-check
+    title: Reserva tu clase gratuita
+    content: Elige el día y la hora que más te convengan para una clase de prueba sin compromiso.
+  - icon: shoe-prints
+    title: Aprende los movimientos básicos
+    content: Tu profesor te guiarán paso a paso, asegurando que disfrutes desde el primer día.
+  - icon: group-arrows-rotate
+    title: Únete a la comunidad
+    content: Conéctate con otros estudiantes y únete a nuestros eventos y prácticas sociales semanales.

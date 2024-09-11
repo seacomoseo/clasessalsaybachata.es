@@ -1,0 +1,22 @@
+name: Vídeos
+title: Vídeos
+subtitle: Para que vayas abriendo boca
+
+color: light
+gradient: main
+divider: tilt-op-alt
+
+box:
+  columns: 4
+  ratio: 9x16
+  slider: true
+  interval: 8
+  button: light
+boxes:
+
+- image: https://youtu.be/zm1RQYxmXZs&poster=poster/zepo-bailando-salsa-en-sala-bubaloo.jpg
+- image: https://youtu.be/a34-RG7Efp8&poster=poster/zepo-bailando-bachata-en-sbk-champions.jpg
+- image: https://youtu.be/HAJ1etRDSQc&poster=poster/clases-de-salsa-en-el-palmar-murcia.jpg
+- image: https://youtu.be/c_gwR3OnPVg&poster=poster/zepo-bailando-salsa-en-benidorm-summer.jpg
+- image: https://youtu.be/RnCa-RmUzpM&poster=poster/zepo-y-gloria-bailando-salsa-en-benidorm-summer.jpg
+- image: https://youtu.be/jZicvp-IOeQ&poster=poster/zepo-bailando-salsa-en-benidorm-summer-en-zona-piscina.jpg
