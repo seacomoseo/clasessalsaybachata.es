@@ -15,7 +15,7 @@ modal:
   icon_type: top
   underline: true
   uppercase: true
-lists:
+list:
   columns: 3
   declive: true
   ratio: 16x9

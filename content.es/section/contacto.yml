@@ -12,7 +12,7 @@ pb: 8
 box:
   columns: 2
   gap: 3
-  gap_ny: 3
+  gap_min: 4
 boxes:
 - contact:
   # - type: schedule
