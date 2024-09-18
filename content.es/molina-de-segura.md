@@ -41,6 +41,4 @@ service_types:
 service_areas:
 - Molina de Segura
 
-anchor: Molina de Segura
-
 ---

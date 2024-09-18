@@ -1,5 +1,5 @@
 ---
-title: Inicio
+title: Murcia
 slug: inicio
 image: poster/header.jpg
 translationKey: home
@@ -118,7 +118,5 @@ services:
 - title: Clases de Salsa y Bachata en Loquí
   area: Loquí, Murcia
   url: https://clasessalsaybachata.es/lorqui/
-
-anchor: Murcia
 
 ---

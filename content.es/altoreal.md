@@ -41,6 +41,4 @@ service_types:
 service_areas:
 - Altoreal
 
-anchor: Altoreal
-
 ---

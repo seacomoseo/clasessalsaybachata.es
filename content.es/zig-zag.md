@@ -1,5 +1,5 @@
 ---
-title: Zig-Zag Murcia
+title: Centro Zig-Zag Murcia
 slug: zig-zag-murcia
 image: poster/header.jpg
 translationKey: zig-zag-murcia
@@ -40,7 +40,5 @@ service_types:
 - Clases de Salsa y Bachata
 service_areas:
 - Centro Zig-Zag Murcia
-
-anchor: Centro Zig-Zag Murcia
 
 ---
