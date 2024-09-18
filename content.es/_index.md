@@ -1,7 +1,7 @@
 ---
 title: Inicio
 slug: inicio
-image: carteles/horarios-2024-2025.jpg
+image: poster/header.jpg
 translationKey: home
 
 seo: 🪇 Clases de Salsa y Bachata en Murcia 💃🏻🕺🏻
@@ -66,7 +66,6 @@ images:
 - poster/zepo-bailando-salsa-en-sala-bubaloo.jpg
 - poster/zepo-bailando-salsa-en-benidorm-summer-en-zona-piscina.jpg
 - poster/zepo-bailando-bachata-en-sbk-champions.jpg
-- poster/header.webm
 - poster/header.jpg
 - poster/clases-de-salsa-en-el-palmar-murcia.jpg
 social:
@@ -107,6 +106,9 @@ prices: €€
 services:
 - title: Clases de Salsa y Bachata en Murcia
   area: Murcia
+- title: Clases de Salsa y Bachata en Centro Zig-Zag Murcia
+  area: Centro Zig-Zag Murcia
+  url: https://clasessalsaybachata.es/zig-zag-murcia/
 - title: Clases de Salsa y Bachata en Molina de Segura
   area: Molina de Segura, Murcia
   url: https://clasessalsaybachata.es/molina-de-segura/

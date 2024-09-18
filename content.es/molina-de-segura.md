@@ -1,7 +1,7 @@
 ---
 title: Molina de Segura
 slug: molina-de-segura
-image: carteles/horarios-2024-2025.png
+image: poster/header.jpg
 translationKey: molina-de-segura
 
 seo: 🪇 Clases de Salsa y Bachata en Molina de Segura 💃🏻🕺🏻

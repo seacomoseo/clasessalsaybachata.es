@@ -1,7 +1,7 @@
 ---
 title: Altoreal
 slug: altoreal
-image: carteles/horarios-2024-2025.png
+image: poster/header.jpg
 translationKey: altoreal
 
 seo: 🪇 Clases de Salsa y Bachata en Altoreal 💃🏻🕺🏻

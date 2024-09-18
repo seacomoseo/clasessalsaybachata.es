@@ -1,11 +1,11 @@
 ---
-title: Loquí
-slug: lorqui
+title: Zig-Zag Murcia
+slug: zig-zag-murcia
 image: poster/header.jpg
-translationKey: lorqui
+translationKey: zig-zag-murcia
 
-seo: 🪇 Clases de Salsa y Bachata en Loquí 💃🏻🕺🏻
-description: Disfruta de un ambiente genial donde conectar y socializar mientras aprendes a bailar y sudas de alegría en Loquí. ¡Reserva tu clase gratis hoy!
+seo: 🪇 Clases de Salsa y Bachata en Centro Zig-Zag Murcia 💃🏻🕺🏻
+description: Disfruta de un ambiente genial donde conectar y socializar mientras aprendes a bailar y sudas de alegría en Zig-Zag Murcia. ¡Reserva tu clase gratis hoy!
 
 menu:
   logo: false
@@ -39,8 +39,8 @@ base: service
 service_types:
 - Clases de Salsa y Bachata
 service_areas:
-- Loquí
+- Centro Zig-Zag Murcia
 
-anchor: Loquí
+anchor: Centro Zig-Zag Murcia
 
 ---
