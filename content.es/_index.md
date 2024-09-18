@@ -78,7 +78,7 @@ phones:
 address:
   name: 🪇 Clases de Salsa y Bachata en Murcia 💃🏻🕺🏻
   street: C. Abenarabi, 5
-  cp: '30008'
+  pc: '30008'
   locality: Murcia
   region: Murcia
   country: ES
