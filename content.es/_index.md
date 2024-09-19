@@ -89,7 +89,7 @@ areas:
 - Zig-Zag
 - El Palmar
 - Molina de Segura
-- Altoreal
+- Altorreal
 - Loquí
 open:
 - days:
@@ -112,9 +112,9 @@ services:
 - title: Clases de Salsa y Bachata en Molina de Segura
   area: Molina de Segura, Murcia
   url: https://clasessalsaybachata.es/molina-de-segura/
-- title: Clases de Salsa y Bachata en Altoreal
-  area: Altoreal, Murcia
-  url: https://clasessalsaybachata.es/altoreal/
+- title: Clases de Salsa y Bachata en Altorreal
+  area: Altorreal, Murcia
+  url: https://clasessalsaybachata.es/altorreal/
 - title: Clases de Salsa y Bachata en Loquí
   area: Loquí, Murcia
   url: https://clasessalsaybachata.es/lorqui/

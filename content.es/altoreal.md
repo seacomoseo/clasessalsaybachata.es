@@ -1,11 +1,11 @@
 ---
-title: Altoreal
-slug: altoreal
+title: Altorreal
+slug: altorreal
 image: poster/header.jpg
-translationKey: altoreal
+translationKey: altorreal
 
-seo: 🪇 Clases de Salsa y Bachata en Altoreal 💃🏻🕺🏻
-description: Disfruta de un ambiente genial donde conectar y socializar mientras aprendes a bailar y sudas de alegría en Altoreal. ¡Reserva tu clase gratis hoy!
+seo: 🪇 Clases de Salsa y Bachata en Altorreal 💃🏻🕺🏻
+description: Disfruta de un ambiente genial donde conectar y socializar mientras aprendes a bailar y sudas de alegría en Altorreal. ¡Reserva tu clase gratis hoy!
 
 menu:
   logo: false
@@ -39,6 +39,6 @@ base: service
 service_types:
 - Clases de Salsa y Bachata
 service_areas:
-- Altoreal
+- Altorreal
 
 ---
