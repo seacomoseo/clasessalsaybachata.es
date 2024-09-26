@@ -28,7 +28,7 @@ boxes:
   - type: whatsapp
     label: 696 613 665
   - type: address
-    label: C. Abenarabi, 5, 30008, Murcia
+    label: C. Abenarabi, 5, 30008 Murcia
     anchor: Escuela de artistas Irene, C. Abenarabi, 5, 30008, Murcia
     button: light
   - type: address

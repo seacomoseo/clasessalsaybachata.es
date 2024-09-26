@@ -1,15 +1,13 @@
 name: FAQ
 title: FAQ
 subtitle: Preguntas Frecuentes
-size: xs
+size: sm
 
 color: dark
 divider: tilt-op-alt
 flip_y: true
 pb: 6
 
-collapsible:
-  font_alt: true
 collapsibles:
 - title: ¿Necesito experiencia previa para unirme?
   content: No, nuestras clases están diseñadas para todos los niveles, desde principiantes hasta avanzados.
