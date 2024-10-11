@@ -91,17 +91,19 @@ areas:
 - Molina de Segura
 - Altorreal
 - Loquí
-open:
+schedule:
 - days:
   - monday
   - wednesday
-  opens: 20:00
-  closes: 22:00
+  hours:
+  - open: 20:00
+    close: 22:00
 - days:
   - tuesday
   - thursday
-  opens: 20:00
-  closes: 23:00
+  hours:
+  - open: 20:00
+    close: 23:00
 prices: €€
 services:
 - title: Clases de Salsa y Bachata en Murcia
