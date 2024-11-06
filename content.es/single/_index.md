@@ -7,27 +7,6 @@ translationKey: home
 seo: 🪇 Clases de Salsa y Bachata en Murcia 💃🏻🕺🏻
 description: Disfruta de un ambiente genial donde conectar y socializar mientras aprendes a bailar y sudas de alegría. ¡Reserva tu clase gratis hoy! ☎️ 696 613 665
 
-menu:
-  logo: false
-  sticky: auto
-  size: sm
-  show_sections: true
-callnow:
-  show: auto
-modal:
-  color: dark
-  icon_type: top
-  underline: true
-  uppercase: true
-section:
-- size: lg
-  underline: true
-  uppercase: true
-  color: dark
-  gradient_type: linear-bl
-  parallax: fix
-  divider: squares
-
 sections:
 - file: _header
   modals:
