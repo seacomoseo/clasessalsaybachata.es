@@ -12,8 +12,8 @@ pb: 8
 box:
   columns: 2
   gap: 3
-  gap_min: 4
-  align_y: center
+  gap_min: 2
+  # align_y: center
 boxes:
 - contact:
   # - type: schedule
@@ -50,8 +50,9 @@ boxes:
     name: Mensaje
     required: true
 - hanchor: Academia de baile con clases de salsa y bachata en Murcia junto al Zig Zag
-  bg: mapa.png
-  link: https://www.google.com/maps/d/viewer?mid=1SfBJDZSTWQ0TkqkEqNYavTOTz0aQyRA
-  # ofuscate: true
-  rate: 1x1
-  button: hide
+  rate: 1/1
+  map:
+  - type: point
+    geo: '{"type":"Point","coordinates":[-1.1304022,37.9973732]}'
+  - type: point
+    geo: '{"type":"Point","coordinates":[-1.1651046,37.9418382]}'

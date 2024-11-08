@@ -8,7 +8,7 @@ divider: tilt-op-alt
 
 box:
   columns: 4
-  ratio: 9x16
+  ratio: 9/16
   slider: true
   interval: 8
   button: light
