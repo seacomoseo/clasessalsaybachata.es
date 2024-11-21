@@ -9,8 +9,10 @@ pb: 8
 
 box:
   columns: 4
-  hs: 5
   icon_size: 3.5
+  hs: 5
+  uppercase: true
+  underline: true
 boxes:
 
 - icon: group-arrows-rotate

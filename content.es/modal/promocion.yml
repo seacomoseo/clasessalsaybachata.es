@@ -20,9 +20,11 @@ box:
   columns: 1
 boxes:
 - title: ¿Cómo funciona?
+  uppercase: true
+  underline: true
   step:
-    # underline: true
     icon_size: 1
+    # underline: true
   steps:
   - icon: calendar-check
     title: Reserva tu clase gratuita

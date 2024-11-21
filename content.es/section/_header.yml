@@ -10,6 +10,8 @@ boxes:
   title: Clases de <br> Salsa y Bachata
   hn: p
   hs: 0
+  uppercase: true
+  underline: true
   subtitle: en {{% param title %}}
   content: |
     ¿Te gustaría ==icon:sign-simple petarlo== bailando?
