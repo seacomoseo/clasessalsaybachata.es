@@ -2,9 +2,10 @@ baseURL: https://clasessalsaybachata.es
 buildFuture: true
 theme: [sansoul]
 params:
-  git_url: https://github.com/seacomoseo/clasessalsaybachata.es
-  netlify_name: clasessalsaybachata
+  domain: clasessalsaybachata.es
+  name: clasessalsaybachata
   netlify_id: d4c38bf0-7efa-424c-8c88-d9bc9a75cece
-  hook: Y3VybCAtWCBQT1NUIC1kIHt9IDY2ZDJmZmM4MGE4YzEwMDA4MThhNTY4Mgo=
+  netlify_hook: Y3VybCAtWCBQT1NUIC1kIHt9IDY2ZDJmZmM4MGE4YzEwMDA4MThhNTY4Mgo=
+  cloudflare_id: 
   drive_link: https://drive.google.com/file/d/1RXA-84zQkLKIokZcHdohIRw3hNlLkqUb
   drive_mails: zepic.photo@gmail.com

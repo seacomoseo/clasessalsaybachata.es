@@ -8,7 +8,7 @@ divider: tilt-op-alt
 flip_y: true
 pb: 6
 
-collapsibles:
+accordions:
 - title: ¿Necesito experiencia previa para unirme?
   content: No, nuestras clases están diseñadas para todos los niveles, desde principiantes hasta avanzados.
 - title: ¿Necesito ir en pareja?
