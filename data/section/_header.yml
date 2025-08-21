@@ -1,5 +1,5 @@
 name: Cabecera
-hanchor: 🪇 Clases de Salsa y Bachata en {{% param title %}} 💃🏻🕺🏻
+hanchor: 🪇 Clases de Salsa y Bachata en {{% param kw %}} 💃🏻🕺🏻
 pt: 6
 full: true
 bi: poster/header.webm
@@ -11,7 +11,7 @@ boxes:
   hs: 0
   caps: true
   line: true
-  subtitle: en {{% param title %}}
+  subtitle: en {{% param kw %}}
   md: |
     ¿Te gustaría ==:sign-simple: petarlo== bailando?
 
