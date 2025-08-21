@@ -5,7 +5,6 @@ tpl:
   menu:
     logo: false
     sticky: auto
-    size: sm
     auto: same
   callnow: auto
   section:
