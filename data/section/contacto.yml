@@ -1,37 +1,29 @@
 name: Contacto
 title: Contacto
 subtitle: Dígamelón
-menu_button: link
-
+menu_button: cta
 color: white
-divider: squares
-flip_x: true
+div: squares
+div_x: true
 pt: 8
 pb: 8
-
 box:
-  columns: 2
+  cols: 2
   gap: 3
-  gap_min: 2
-  # align_y: center
+  gap_vs: 2
 boxes:
 - contact:
-  # - type: schedule
-  #   days: Lunes y Miércoles
-  #   hours: '{{% param open.0.opens %}} - {{% param open.0.closes %}}'
-  # - type: schedule
-  #   days: Martes y Jueves
-  #   hours: '{{% param open.1.opens %}} - {{% param open.1.closes %}}'
-  #   full: true
   - type: phone
     label: 696 613 665
     button: main
   - type: whatsapp
     label: 696 613 665
-  - type: address
-    label: C. Abenarabi, 5, 30008 Murcia
-    anchor: Escuela de artistas Irene, C. Abenarabi, 5, 30008, Murcia
-    button: light
+    # icon: whatsapp-o
+    # button: cta
+  # - type: address
+  #   label: C. Abenarabi, 5, 30008 Murcia
+  #   anchor: Escuela de artistas Irene, C. Abenarabi, 5, 30008, Murcia
+  #   button: light
   - type: address
     label: Cl. Lorca, 44, Bajo, 30120 El Palmar
     anchor: ActivaT Centro Entrenamiento El Palmar, Cl. Lorca, 44, Bajo, 30120 Murcia
@@ -50,9 +42,9 @@ boxes:
     name: Mensaje
     required: true
 - hanchor: Academia de baile con clases de salsa y bachata en Murcia junto al Zig Zag
-  rate: 1/1
-  map:
-  - type: point
-    geo: '{"type":"Point","coordinates":[-1.1304022,37.9973732]}'
+  rate: 4/3
+  geos:
+  # - type: point
+  #   geo: '{"type":"Point","coordinates":[-1.1304022,37.9973732]}'
   - type: point
     geo: '{"type":"Point","coordinates":[-1.1651046,37.9418382]}'

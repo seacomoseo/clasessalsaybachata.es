@@ -1,19 +1,16 @@
 name: Vídeos
 title: Vídeos
 subtitle: Para que vayas abriendo boca
-
 color: light
-gradient: main
-divider: tilt-op-alt
-
+fade: main
+div: tilt-op-alt
 box:
-  columns: 4
+  cols: 4
   ratio: 9/16
   slider: true
-  interval: 8
+  time: 8
   button: light
 boxes:
-
 - image: https://youtu.be/zm1RQYxmXZs&poster=poster/zepo-bailando-salsa-en-sala-bubaloo.jpg
 - image: https://youtu.be/a34-RG7Efp8&poster=poster/zepo-bailando-bachata-en-sbk-champions.jpg
 - image: https://youtu.be/HAJ1etRDSQc&poster=poster/clases-de-salsa-en-el-palmar-murcia.jpg

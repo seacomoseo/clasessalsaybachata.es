@@ -1,0 +1,15 @@
+name: FAQ
+title: FAQ
+subtitle: Preguntas Frecuentes
+size: sm
+color: dark
+div: tilt-op-alt
+div_y: true
+pb: 6
+accordions:
+- title: ¿Necesito experiencia previa para unirme?
+  md: No, nuestras clases están diseñadas para todos los niveles, desde principiantes hasta avanzados.
+- title: ¿Necesito ir en pareja?
+  md: No, organizamos las clases para mantener un balance entre chicos y chicas, así que puedes venir solo/a.
+- title: ¿Cuál es el coste de las clases?
+  md: Ofrecemos diferentes paquetes adaptados a tus necesidades. [Contacta](#contacto) para más detalles.

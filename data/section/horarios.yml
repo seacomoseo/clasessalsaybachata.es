@@ -1,0 +1,18 @@
+name: Horarios
+title: Horarios
+subtitle: Curso 2025/2026
+size: sm
+color: light
+fade: main
+div: squares
+pb: 8
+box:
+  cols: 2
+  button: hide
+boxes:
+- image: carteles/horarios-2025-2026.jpg
+  link: carteles/horarios-2025-2026.jpg
+- fit: 2
+  md: |
+    <!-- [[Solicita tu clase gratis]](#promocion "[light]") -->
+    [[Contacto]](#contacto "[light]")

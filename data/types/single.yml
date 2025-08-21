@@ -1,19 +1,18 @@
 title: Únicas
-order: 0
+weight: 0
 base: single
-template:
+tpl:
   menu:
     logo: false
     sticky: auto
     size: sm
-    show_sections: true
-  callnow:
-    show: auto
+    auto: same
+  callnow: auto
   section:
   - size: lg
-    underline: true
-    uppercase: true
+    line: true
+    caps: true
     color: dark
-    gradient_type: linear-bl
+    fade_type: linear-bl
     parallax: fix
-    divider: squares
+    div: squares

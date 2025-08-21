@@ -4,13 +4,11 @@ hanchor: Profesor de Baile de Salsa y Bachata
 title: Profesor
 subtitle: Zepo
 size: md
-
 color: dark
-divider: tilt-op-alt
+div: tilt-op-alt
 pt: 8
-
 box:
-  columns: 0
+  cols: 0
   gap: 5
 boxes:
 - order: 2
@@ -18,9 +16,9 @@ boxes:
   parallax: box
 - order: 1
   align: left
-  align_max: right
+  align_vl: right
   align_y: center
-  content: |
+  md: |
     ¡Hola! Soy Zepo, tu profe de baile de salsa y bachata.
 
     Llevo más de 10 años en el mundo de los ritmos latinos.
@@ -33,5 +31,6 @@ boxes:
 
     Si buscas divertirte, aprender y conectar con la música de una manera nueva, estoy aquí para eso.
 
-    [btn:font-alt-light icon:instagram @zeposansol](https://www.instagram.com/zeposansol/ "nofollow")
-    [btn Solicita tu clase gratis](#promocion)
+    [[:instagram: @zeposansol]](https://www.instagram.com/zeposansol/ "[nofollow swap-light]")
+    <!-- [[Solicita tu clase gratis]](#promocion "[light]") -->
+    [[Contacto]](#contacto)

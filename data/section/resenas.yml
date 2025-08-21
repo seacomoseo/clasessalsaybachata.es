@@ -1,23 +1,20 @@
 name: Reseñas
 title: Reseñas
 subtitle: De alumnos que ya saben lo que es petarlo
-
 color: light
-gradient: main
-divider: tilt-op-alt
-flip_x: true
+fade: main
+div: tilt-op-alt
+div_x: true
 pb: 8
-
 review:
-  columns: 3
+  cols: 3
   color: white
   slider: true
-  interval: 8
+  time: 8
   button: light
 reviews:
-
 - title: Samuel L.
-  content: |
+  md: |
     No suelo poner valoraciones de nada, pero salgo tan contento de las clases de Zepo que tengo ganas de compartirlo con el mundo.
 
     Tanto si nunca has bailado como si ya bailas, te recomiendo que pruebes sus clases.
@@ -25,7 +22,7 @@ reviews:
     Vas a aprende mucho, rápido y, sobre todo, a pasártelo bien.
   image: https://lh3.googleusercontent.com/a-/ALV-UjVAIv43sKsLGVdjHF1tdDT8dT7rehgnMWNlhum9V5PMNfEB-EA=s136
 - title: Gustavo S.
-  content: |
+  md: |
     Tomar clases de salsa y bachata con Zepo ha sido una experiencia maravillosa.
 
     Enseña con una claridad y paciencia excepcionales, lo que hace que aprender sea tanto divertido como efectivo.
@@ -37,7 +34,7 @@ reviews:
     Si buscas mejorar tus habilidades de baile y disfrutar de cada momento en el proceso, no podría recomendar a nadie mejor que Zepo! 👌🏻
   image: https://lh3.googleusercontent.com/a-/ALV-UjXb9RzWdbTwMcvXnozrJU8N6ZZLdSIxi6pPo29jeuBWY0BZPxIHVg=s136
 - title: Maria N.
-  content: |
+  md: |
     Zepo explica los pasos muy bien, he aprendido a hacer de lider cuando llevo bailando de followers tanto...Tiene mucho flow y es majísimo.
 
     Las clases son muy divertidas con él.
@@ -45,52 +42,51 @@ reviews:
     ¡Venga, apúntate! 😊…
   image: https://lh3.googleusercontent.com/a-/ALV-UjV5JL2neNvGx_BKIlRTtETK77WWty6z2auApSh0X6GLlqI5-LGD=s136
 - title: Gloria S.
-  content: |
+  md: |
     Zepo es un chico de lo más profesional; hace las clases muy amenas y divertidas, es atento, paciente e innovador.
 
     Un gustazo poder aprender de él.
   image: https://lh3.googleusercontent.com/a-/ALV-UjVXM6CSSWh9gXc-yvc3R6WsPm2C37yusSWdaFY_rZRs-kpyW56b=s136
 - title: Irene R.
-  content: |
+  md: |
     Zepo crea un ambiente súper agradable pa soltarse y aprender a bailar.
 
     Con sus clases combina diversión y formación y orienta a los alumnos con mucha escucha, profesionalidad y cariño… un disfrute aprender con él, súper recomendado!
   image: https://lh3.googleusercontent.com/a-/ALV-UjWMDCUvVGfgEQNxx08mdFJoqhFPezkuQ46M6c_-xYP2tmsQaQY=s136
 - title: Sara M.
-  content: |
+  md: |
     Clases súper dinámicas y divertidas.
 
     Zepo es un gran profesor, aunque no hayas tomado clases de S&B antes, hace que sea muy fácil! Deseando retomar después del verano!
   image: https://lh3.googleusercontent.com/a/ACg8ocKO-lHwgSkXpHseHJCO-9Wm0qJAZaV-6-NBay0BGJBsvNeac7n3=s136
 - title: Activa C.
-  content: |
+  md: |
     Gran profesional! Prepara y adapta sus clases al nivel de sus alumnos.
 
     Siempre viene con una sonrisa y una actitud positiva que hace que las clases se pasen muy rápido y te diviertas a la vez que aprendes.
   image: https://lh3.googleusercontent.com/a-/ALV-UjWSopnZ2iqCZlIpGawD-CQAYigV8bo9dFW5HEoaMCYrBS0-Lcio=s136
 - title: Maite T.
-  content: |
+  md: |
     Zepo es un profe de ritmos latinos muy divertido del que podrás aprender buena técnica tanto de salsa como bachata! Si quieres iniciarte en este mundillo, lo recomiendo 100% ☺️
   image: https://lh3.googleusercontent.com/a/ACg8ocImtmKJog1zX1Yvfihxh0s0e7-LglJDC1ztb9B_PD6M9itneA=s136
 - title: Isa M.
-  content: |
+  md: |
     Clases de salsa y bachata súper divertidas a la vez que aprendes, el profe lo hace todo muy ameno y fácil si vas desde cero y si no también.😀…
   image: https://lh3.googleusercontent.com/a-/ALV-UjVEw_SDrPnALEOS2Xxhq85HMWfMzPtNNyApbio16-7RzulSPL-4MQ=s136
 - title: Lucía P.
-  content: |
+  md: |
     Experiencia 10, el profesor sabe como guiar a todos en todo momento, incluso a los mas patosos como yo! Recomiendo 100%
   image: https://lh3.googleusercontent.com/a-/ALV-UjVoqXg3DZ4LFN-w9R8imyaN3CfzNo-DLEWIgRI7i37CfJW46FBA=s136
 - title: Lidia P.
-  content: |
+  md: |
     Muy buen profesional, clases amenas y un gran conocimiento musical.
 
     Lo recomiendo!!
   image: https://lh3.googleusercontent.com/a/ACg8ocJ9ZJYY12LJPvdpJmpAd6BRcDfvUVngrXoJ1-ckLPUjhBsJcA=s136
 - title: Tomas S.
-  content: |
+  md: |
     Un monitor excelente, y muy motivado.
   image: https://lh3.googleusercontent.com/a-/ALV-UjWRBnrmC23VDAPFqXMdgBPjUFmMu2xqjMeKHSGS700Dp5BStkrz=s136
-
 boxes:
-- content: |
-    [btn:light icon:google Más en Google](https://g.page/r/CQI3T3wmeAB6EBM/review "noindex")
+- md: |
+    [[:google: Más en Google]](https://g.page/r/CQI3T3wmeAB6EBM/review "[noindex light]")

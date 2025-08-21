@@ -1,0 +1,64 @@
+name: Cabecera
+hanchor: 🪇 Clases de Salsa y Bachata en {{% param title %}} 💃🏻🕺🏻
+pt: 6
+full: true
+bi: poster/header.webm
+alpha: .7
+boxes:
+- fit: .4
+  title: Clases de <br> Salsa y Bachata
+  hn: p
+  hs: 0
+  caps: true
+  line: true
+  subtitle: en {{% param title %}}
+  md: |
+    ¿Te gustaría ==:sign-simple: petarlo== bailando?
+
+    Disfruta de un ambiente genial donde conectar y socializar
+    mientras aprendes y sudas de alegría
+
+    <!-- [[Solicita tu clase gratis]](#promocion "[light]") -->
+    [[Contacto]](#contacto)
+    [[:play: Vídeos]](#videos "[light]")
+
+# modal:
+#   color: dark
+#   icon_type: top
+#   line: true
+#   caps: true
+# modals:
+# - title: Promoción
+#   bi: profesor-zepo.png
+#   alpha: .75
+#   size: xs
+#   align: center
+#   icon: crown
+#   price: 1ª clase gratis
+#   md: |
+#     Escríbeme al WhatsApp con el texto
+
+#     **==CLASE GRATIS==**
+
+#     para canjear una clase de prueba gratuita \
+#     (si no vuelves)
+
+#     [[:whatsapp: ¡Quiero una clase gratis!]](https://wa.me/34696613665?text=CLASE%20GRATIS "[nofollow whatsapp]")
+#   box:
+#     cols: 1
+#   boxes:
+#   - title: ¿Cómo funciona?
+#     caps: true
+#     line: true
+#     step:
+#       icon_size: 1
+#     steps:
+#     - icon: calendar-check
+#       title: Reserva tu clase gratuita
+#       md: Elige el día y la hora que más te convengan para una clase de prueba sin compromiso.
+#     - icon: shoe-prints
+#       title: Aprende los movimientos básicos
+#       md: Tu profesor te guiarán paso a paso, asegurando que disfrutes desde el primer día.
+#     - icon: group-arrows-rotate
+#       title: Únete a la comunidad
+#       md: Conéctate con otros estudiantes y únete a nuestros eventos y prácticas sociales semanales.

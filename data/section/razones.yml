@@ -1,0 +1,42 @@
+name: Razones
+title: Razones
+subtitle: ¿Por qué apuntarte a este bombardeo?
+color: white
+div: tilt-op-alt
+div_x: true
+pb: 8
+box:
+  cols: 4
+  icon_size: 3.5
+  hs: 5
+  caps: true
+  line: true
+boxes:
+- icon: group-arrows-rotate
+  title: Ambiente Social
+  md: ¡Aprender a bailar y haz amigos a la vez! Ven a nuestras clases y vive la salsa y bachata en un ambiente lleno de buena vibra.
+- icon: heart-pulse
+  title: Mejora tu Salud
+  md: ¡Dile adiós al gimnasio aburrido! Aquí sudarás de alegría mientras bailas y mejoras tu movilidad y tu forma física.
+- icon: sunglasses
+  title: Instructor Molón
+  md: Nuestro profe tiene un flow que se sale y enseña que no veas. Hará que hasta los pasos más difíciles sean un juego.
+- icon: people-arrows
+  title: Conexión en Pareja
+  md: ¿Baile en pareja? ¡Sí, por favor! Crea momentos inolvidables con tu pareja mientras os divertís al ritmo de la música.
+- icon: family
+  title: Adultos y Jóvenes
+  md: Da igual la edad que tengas. Aquí todos son bienvenidos a mover el esqueleto y disfrutar de esta gozadera.
+- icon: badge-check
+  title: Principiantes o No
+  md: Nunca has bailado o ya pilotas, ¡da igual! Tenemos clases para ti, que sabes lo que te mola y lo que quieres.
+- icon: shoe-prints
+  title: Clases Particulares
+  md: ¿Quieres un trato VIP? Las clases privadas son lo tuyo. Aprenderás a tu ritmo con atención total que buscas.
+- icon: location-dot
+  title: Cerca o a Domicilio
+  md: Estamos en varias academias en Murcia. Seguro que encuentras una cerca de casa. Eso o te llevamos el ritmo y la diversión hasta tu salón.
+- fit: 4
+  md: |
+    <!-- [[Solicita tu clase gratis]](#promocion) -->
+    [[Contacto]](#contacto)

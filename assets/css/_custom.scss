@@ -4,8 +4,8 @@
   .image                   { @include show-from(0); --show-from: scale(3); }
   .box__title              { @include show-from(1); }
   .subtitle                { @include show-from(2); }
-  .content p:nth-child(1)  { @include show-from(3); }
-  .content p:nth-child(2)  { @include show-from(4); }
-  .content p:nth-child(3)  { @include show-from(5); }
-  .content p:nth-child(4)  { @include show-from(6); }
+  .md p:nth-child(1)       { @include show-from(3); }
+  .md p:nth-child(2)       { @include show-from(4); }
+  .md p:nth-child(3)       { @include show-from(5); }
+  .md p:nth-child(4)       { @include show-from(6); }
 }
