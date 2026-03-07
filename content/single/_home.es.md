@@ -27,7 +27,7 @@ org:
   - 🪇 Clases de Salsa y Bachata en Murcia
   - Clases de Salsa y Bachata en Murcia 💃🏻🕺🏻
   - 🥇 Clases de Salsa y Bachata en Murcia 【Bailes Latinos】
-  description: ''
+  description: null
   legal: CLASES SALSA Y BACHATA
   nif: 48650504F
   email: zepoman.z@gmail.com
@@ -65,17 +65,17 @@ org:
   - El Palmar
   - Molina de Segura
   - Altorreal
-  - Loquí
+  - Lorquí
   schedule:
   - days:
-    - monday
-    - wednesday
+      mon: true
+      wed: true
     hours:
     - open: 20:00
       close: 22:00
   - days:
-    - tuesday
-    - thursday
+      tue: true
+      thu: true
     hours:
     - open: 20:00
       close: 23:00
@@ -92,8 +92,7 @@ org:
   - title: Clases de Salsa y Bachata en Altorreal
     area: Altorreal, Murcia
     url: https://clasessalsaybachata.es/altorreal/
-  - title: Clases de Salsa y Bachata en Loquí
-    area: Loquí, Murcia
+  - title: Clases de Salsa y Bachata en Lorquí
+    area: Lorquí, Murcia
     url: https://clasessalsaybachata.es/lorqui/
 ---
-

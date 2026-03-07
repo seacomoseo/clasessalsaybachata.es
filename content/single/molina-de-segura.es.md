@@ -21,4 +21,3 @@ service_types:
 service_areas:
 - Molina de Segura
 ---
-
