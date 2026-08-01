@@ -30,7 +30,6 @@ modals:
 - title: Promoción
   bi: /u/profesor-zepo.png
   alpha: 0.75
-  # size: sm
   align: center
   icon: crown
   price: 1ª clase gratis

@@ -7,7 +7,6 @@ tpl:
     logo_align: center
     color: light
     clear: true
-    size: sm
     hide_icons: true
   section:
   - size: sm
