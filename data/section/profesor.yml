@@ -1,36 +1,36 @@
 name: Profesor
 id: profesor
-hanchor: Profesor de Baile de Salsa y Bachata
-title: Profesor
-subtitle: Zepo
 size: md
 color: dark
 div: tilt-op-alt
 pt: 8
-box:
-  cols: 0
-  gap: 5
 boxes:
-- order: 2
-  image: profesor-zepo.png
-  parallax: box
-- order: 1
-  align: left
-  align_vl: right
-  align_y: center
-  md: |
-    ¡Hola! Soy Zepo, tu profe de baile de salsa y bachata.
+- hanchor: Profesor de Baile de Salsa y Bachata
+  title: Profesor
+  sub: Zepo
+  box:
+    cols: 0
+    gap: 5
+  boxes:
+  - order: 2
+    img: /u/profesor-zepo.png
+    scroll: box
+  - order: 1
+    align: left
+    align_vl: right
+    align_y: center
+    md: |
+      ¡Hola! Soy Zepo, tu profe de baile de salsa y bachata.
 
-    Llevo más de 10 años en el mundo de los ritmos latinos.
+      Llevo más de 10 años en el mundo de los ritmos latinos.
 
-    Imparto clases donde se respira Salsa (On1 & On2), Bachata, Timba, Mambo y Pachanga.
+      Imparto clases donde se respira Salsa (On1 & On2), Bachata, Timba, Mambo y Pachanga.
 
-    Bailar es lo mío y me flipa transmitir esa vibra a quienes quieren aprender y disfrutar del baile, me encanta compartir esta pasión.
+      Bailar es lo mío y me flipa transmitir esa vibra a quienes quieren aprender y disfrutar del baile, me encanta compartir esta pasión.
 
-    Mi meta es que disfrutes y aprendas en cada clase, ya sea que estés empezando o quieras mejorar tus habilidades.
+      Mi meta es que disfrutes y aprendas en cada clase, ya sea que estés empezando o quieras mejorar tus habilidades.
 
-    Si buscas divertirte, aprender y conectar con la música de una manera nueva, estoy aquí para eso.
+      Si buscas divertirte, aprender y conectar con la música de una manera nueva, estoy aquí para eso.
 
-    [[:instagram: @zeposansol]](https://www.instagram.com/zeposansol/ "[nofollow swap-light]")
-    <!-- [[Solicita tu clase gratis]](#promocion "[light]") -->
-    [[Contacto]](#contacto)
+      [[::brand:instagram:: @zeposansol]](https://www.instagram.com/zeposansol/ "[nofollow swap light]")
+      [[Solicita tu primera clase gratis]](#promocion)

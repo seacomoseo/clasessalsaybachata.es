@@ -1,7 +1,2 @@
-langs:
-- lang: es
-  title: 🪇 Clases de Salsa y Bachata en Murcia 💃🏻🕺🏻
-  description: Disfruta de un ambiente genial donde conectar y socializar mientras aprendes a bailar salsa y bachata sudando de alegría.
-  google_analytics: G-5LYY065DX1
-others:
-  show: true
+ga4: G-5LYY065DX1
+show: true

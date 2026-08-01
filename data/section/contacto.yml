@@ -1,50 +1,43 @@
 name: Contacto
-title: Contacto
-subtitle: Dígamelón
-menu_button: cta
+menu_btn: cta
 color: white
 div: squares
 div_x: true
 pt: 8
 pb: 8
-box:
-  cols: 2
-  gap: 3
-  gap_vs: 2
 boxes:
-- contact:
-  - type: phone
-    label: 696 613 665
-    button: main
-  - type: whatsapp
-    label: 696 613 665
-    # icon: whatsapp-o
-    # button: cta
-  # - type: address
-  #   label: C. Abenarabi, 5, 30008 Murcia
-  #   anchor: Escuela de artistas Irene, C. Abenarabi, 5, 30008, Murcia
-  #   button: light
-  - type: address
-    label: Cl. Lorca, 44, Bajo, 30120 El Palmar
-    anchor: ActivaT Centro Entrenamiento El Palmar, Cl. Lorca, 44, Bajo, 30120 Murcia
-    button: light
-  inputs:
-  - type: text
-    name: Nombre
-    required: true
-  - type: tel
-    name: Teléfono
-    required: true
-  - type: email
-    name: Email
-    required: true
-  - type: textarea
-    name: Mensaje
-    required: true
-- hanchor: Academia de baile con clases de salsa y bachata en Murcia junto al Zig Zag
-  rate: 4/3
-  geos:
-  # - type: point
-  #   geo: '{"type":"Point","coordinates":[-1.1304022,37.9973732]}'
-  - type: point
-    geo: '{"type":"Point","coordinates":[-1.1651046,37.9418382]}'
+- title: Contacto
+  sub: Dígamelón
+  box:
+    cols: 2
+    gap: 3
+    gap_vs: 2
+  boxes:
+  - links:
+    - type: phone
+      label: 696 613 665
+      btn: main
+    - type: whatsapp
+      label: 696 613 665
+    - type: address
+      label: Cl. Lorca, 44, Bajo, 30120 El Palmar
+      anchor: ActivaT Centro Entrenamiento El Palmar, Cl. Lorca, 44, Bajo, 30120 Murcia
+      btn: light
+    inputs:
+    - type: text
+      name: Nombre
+      req: true
+    - type: phone
+      name: Teléfono
+      req: true
+    - type: mail
+      name: Email
+      req: true
+    - type: area
+      name: Mensaje
+      req: true
+  - hanchor: Academia de baile con clases de salsa y bachata en Murcia junto al Zig Zag
+    rate: 4/3
+    geos:
+    - type: point
+      geo: '{"type":"Point","coordinates":[-1.1651046,37.9418382]}'

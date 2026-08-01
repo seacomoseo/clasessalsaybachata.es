@@ -1,0 +1,16 @@
+# 2024-09-11
+# indexadas
+- { from: /clases-baile-lorqui , to: /lorqui/ }
+- { from: /clases-baile-altorreal , to: /altorreal/ }
+- { from: /clases-baile-molina-de-segura , to: /molina-de-segura/ }
+- { from: /clases-baile-copacabana-zig-zag-murcia , to: /zig-zag-murcia/ }
+- { from: /academia-baile-murcia , to: / }
+# no indexadas
+- { from: /mobile/ , to: / }
+- { from: /musica , to: / }
+- { from: /clases-baile-murcia , to: / }
+- { from: /clases-baile-centro-zig-zag-murcia , to: /zig-zag-murcia/ }
+- { from: /clases-baile-copacabana-zig-zag-murcia.html , to: /zig-zag-murcia/ }
+- { from: /contacto , to: /#contacto }
+- { from: /profesores-baile , to: /#profesor }
+- { from: /altoreal/ , to: /altorreal/ }

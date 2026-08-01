@@ -2,10 +2,11 @@
 slug: inicio
 title: Inicio
 kw: Murcia
-image: carteles/horarios-2025-2026.jpg
-summary: Disfruta de un ambiente genial donde conectar y socializar mientras aprendes a bailar salsa y bachata sudando de alegría.
-seo: 🪇 Clases de Salsa y Bachata en Murcia 💃🏻🕺🏻
-description: Disfruta de un ambiente genial donde conectar y socializar mientras aprendes a bailar y sudas de alegría. ¡Reserva tu clase hoy! ☎️ 696 613 665
+img: /u/carteles/horarios-2025-2026.jpg
+sum: Disfruta de un ambiente genial donde conectar y socializar mientras aprendes a bailar salsa y bachata sudando de alegría.
+seo:
+  title: 🪇 Clases de Salsa y Bachata en Murcia 💃🏻🕺🏻
+  desc: Disfruta de un ambiente genial donde conectar y socializar mientras aprendes a bailar y sudas de alegría. ¡Reserva tu clase hoy! ☎️ 696 613 665
 tpl:
   sections:
   - file: _header
@@ -27,22 +28,22 @@ org:
   - 🪇 Clases de Salsa y Bachata en Murcia
   - Clases de Salsa y Bachata en Murcia 💃🏻🕺🏻
   - 🥇 Clases de Salsa y Bachata en Murcia 【Bailes Latinos】
-  description: null
+  desc: null
   legal: CLASES SALSA Y BACHATA
   nif: 48650504F
-  email: zepoman.z@gmail.com
-  logo: base/icon.svg
-  images:
-  - carteles/horarios-2025-2026.jpg
-  - profesor-zepo.png
-  - poster/zepo-y-gloria-bailando-salsa-en-benidorm-summer.jpg
-  - poster/zepo-bailando-salsa-en-benidorm-summer.jpg
-  - poster/zepo-bailando-salsa-en-sala-bubaloo-2.jpg
-  - poster/zepo-bailando-salsa-en-sala-bubaloo.jpg
-  - poster/zepo-bailando-salsa-en-benidorm-summer-en-zona-piscina.jpg
-  - poster/zepo-bailando-bachata-en-sbk-champions.jpg
-  - poster/header.jpg
-  - poster/clases-de-salsa-en-el-palmar-murcia.jpg
+  mail: zepoman.z@gmail.com
+  logo: /u/base/icon.svg
+  imgs:
+  - /u/carteles/horarios-2025-2026.jpg
+  - /u/profesor-zepo.png
+  - /u/poster/zepo-y-gloria-bailando-salsa-en-benidorm-summer.jpg
+  - /u/poster/zepo-bailando-salsa-en-benidorm-summer.jpg
+  - /u/poster/zepo-bailando-salsa-en-sala-bubaloo-2.jpg
+  - /u/poster/zepo-bailando-salsa-en-sala-bubaloo.jpg
+  - /u/poster/zepo-bailando-salsa-en-benidorm-summer-en-zona-piscina.jpg
+  - /u/poster/zepo-bailando-bachata-en-sbk-champions.jpg
+  - /u/poster/header.jpg
+  - /u/poster/clases-de-salsa-en-el-palmar-murcia.jpg
   as:
   - https://g.page/r/CQI3T3wmeAB6EBM
   - https://www.facebook.com/people/Salsa-Bachata-Murcia-Zepo/61564461346298/
@@ -51,14 +52,14 @@ org:
   phones:
   - 696 613 665
   address:
-    name: 🪇 Clases de Salsa y Bachata en Murcia 💃🏻🕺🏻
+  - name: 🪇 Clases de Salsa y Bachata en Murcia 💃🏻🕺🏻
     street: C. Abenarabi, 5
     pc: '30008'
     locality: Murcia
     region: Murcia
     country: ES
     geo: '{"type":"Point","coordinates":[-1.1304022,37.9973732]}'
-    link: https://g.page/r/CQI3T3wmeAB6EBM
+    url: https://g.page/r/CQI3T3wmeAB6EBM
   areas:
   - Murcia
   - Zig-Zag
@@ -66,7 +67,7 @@ org:
   - Molina de Segura
   - Altorreal
   - Lorquí
-  schedule:
+  when:
   - days:
       mon: true
       wed: true

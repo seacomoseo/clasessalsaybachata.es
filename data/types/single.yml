@@ -9,9 +9,10 @@ tpl:
   callnow: auto
   section:
   - size: lg
-    line: true
-    caps: true
     color: dark
-    fade_type: linear-bl
-    parallax: fix
+    fade_to: bl
+    scroll: fix
     div: squares
+    box:
+      line: true
+      caps: true

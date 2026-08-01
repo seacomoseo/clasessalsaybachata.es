@@ -1,64 +1,58 @@
 name: Cabecera
-hanchor: 🪇 Clases de Salsa y Bachata en {{% param kw %}} 💃🏻🕺🏻
 pt: 6
 full: true
-bi: poster/header.webm
-alpha: .7
+bi: /u/poster/header.webm
+alpha: 0.7
 boxes:
-- fit: .4
+- hanchor: 🪇 Clases de Salsa y Bachata en {{% get kw %}} 💃🏻🕺🏻
+- fit: 0.4
   title: Clases de <br> Salsa y Bachata
   hn: p
-  hs: 0
+  hs: 0.2
   caps: true
   line: true
-  subtitle: en {{% param kw %}}
+  sub: en {{% get kw %}}
   md: |
-    ¿Te gustaría ==:sign-simple: petarlo== bailando?
+    ¿Te gustaría ==::svg:sign-simple:: petarlo== bailando?
 
     Disfruta de un ambiente genial donde conectar y socializar
     mientras aprendes y sudas de alegría
 
-    <!-- [[Solicita tu clase gratis]](#promocion "[light]") -->
-    [[Ven y prueba sin compromiso]](#contacto)
-    [[:play: Vídeos]](#videos "[light]")
+    [[Solicita tu primera clase gratis]](#promocion)
+    [[::play_arrow:: Vídeos]](#videos "[light]")
 
-# modal:
-#   color: dark
-#   icon_type: top
-#   line: true
-#   caps: true
-# modals:
-# - title: Promoción
-#   bi: profesor-zepo.png
-#   alpha: .75
-#   size: xs
-#   align: center
-#   icon: crown
-#   price: 1ª clase gratis
-#   md: |
-#     Escríbeme al WhatsApp con el texto
+modal:
+  color: dark
+  icon_pos: top
+  line: true
+  caps: true
+modals:
+- title: Promoción
+  bi: /u/profesor-zepo.png
+  alpha: 0.75
+  # size: sm
+  align: center
+  icon: crown
+  price: 1ª clase gratis
+  md: |
+    Escríbeme por WhatsApp y te digo qué grupo encaja mejor contigo.
 
-#     **==CLASE GRATIS==**
-
-#     para canjear una clase de prueba gratuita \
-#     (si no vuelves)
-
-#     [[:whatsapp: ¡Quiero una clase gratis!]](https://wa.me/34696613665?text=CLASE%20GRATIS "[nofollow whatsapp]")
-#   box:
-#     cols: 1
-#   boxes:
-#   - title: ¿Cómo funciona?
-#     caps: true
-#     line: true
-#     step:
-#       icon_size: 1
-#     steps:
-#     - icon: calendar-check
-#       title: Reserva tu clase gratuita
-#       md: Elige el día y la hora que más te convengan para una clase de prueba sin compromiso.
-#     - icon: shoe-prints
-#       title: Aprende los movimientos básicos
-#       md: Tu profesor te guiarán paso a paso, asegurando que disfrutes desde el primer día.
-#     - icon: group-arrows-rotate
-#       title: Únete a la comunidad
-#       md: Conéctate con otros estudiantes y únete a nuestros eventos y prácticas sociales semanales.
+    [[::brand:whatsapp:: ¡Quiero probar una clase gratis!]](https://wa.me/34696613665?text=Hola%2C%20quiero%20probar%20una%20clase%20gratis "[nofollow whatsapp]")
+  box:
+    cols: 1
+  boxes:
+  - title: ¿Cómo funciona?
+    caps: true
+    line: true
+    step:
+      icon_size: 1
+    steps:
+    - icon: chat
+      title: Escríbeme por WhatsApp
+      md: Cuéntame si empiezas desde cero y te indico qué clase te viene mejor.
+    - icon: footprint
+      title: Ven a probar
+      md: No necesitas experiencia previa ni venir con pareja. Te guiaré paso a paso.
+    - icon: check_circle
+      title: Decide sin compromiso
+      md: Después de tu primera clase gratis, tú decides si quieres continuar.
