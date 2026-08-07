@@ -2,7 +2,7 @@
 slug: lorqui
 title: Lorquí
 kw: Lorquí
-img: /u/carteles/horarios-2025-2026.jpg
+img: /u/carteles/horarios-2026-2027.jpg
 seo:
   title: 🪇 Clases de Salsa y Bachata en Lorquí 💃🏻🕺🏻
   desc: Disfruta de un ambiente genial donde conectar y socializar mientras aprendes a bailar y sudas de alegría en Lorquí. ¡Reserva tu clase hoy!

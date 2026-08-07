@@ -11,8 +11,8 @@ boxes:
     cols: 2
     btn: hide
   boxes:
-  - img: /u/carteles/horarios-2025-2026.jpg
-    url: /u/carteles/horarios-2025-2026.jpg
+  - img: /u/carteles/horarios-2026-2027.jpg
+    url: /u/carteles/horarios-2026-2027.jpg
   - fit: 2
     md: |
       <!-- [[Solicita tu clase gratis]](#promocion "[light]") -->

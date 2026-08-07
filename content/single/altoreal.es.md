@@ -2,7 +2,7 @@
 slug: altorreal
 title: Altorreal
 kw: Altorreal
-img: /u/carteles/horarios-2025-2026.jpg
+img: /u/carteles/horarios-2026-2027.jpg
 seo:
   title: 🪇 Clases de Salsa y Bachata en Altorreal 💃🏻🕺🏻
   desc: Disfruta de un ambiente genial donde conectar y socializar mientras aprendes a bailar y sudas de alegría en Altorreal. ¡Reserva tu clase hoy!

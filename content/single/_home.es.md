@@ -2,7 +2,7 @@
 slug: inicio
 title: Inicio
 kw: Murcia
-img: /u/carteles/horarios-2025-2026.jpg
+img: /u/carteles/horarios-2026-2027.jpg
 sum: Disfruta de un ambiente genial donde conectar y socializar mientras aprendes a bailar salsa y bachata sudando de alegría.
 seo:
   title: 🪇 Clases de Salsa y Bachata en Murcia 💃🏻🕺🏻
@@ -34,7 +34,7 @@ org:
   mail: zepoman.z@gmail.com
   logo: /u/base/icon.svg
   imgs:
-  - /u/carteles/horarios-2025-2026.jpg
+  - /u/carteles/horarios-2026-2027.jpg
   - /u/profesor-zepo.png
   - /u/poster/zepo-y-gloria-bailando-salsa-en-benidorm-summer.jpg
   - /u/poster/zepo-bailando-salsa-en-benidorm-summer.jpg

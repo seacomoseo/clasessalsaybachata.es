@@ -2,7 +2,7 @@
 slug: zig-zag-murcia
 title: Centro Zig-Zag Murcia
 kw: Centro Zig-Zag Murcia
-img: /u/carteles/horarios-2025-2026.jpg
+img: /u/carteles/horarios-2026-2027.jpg
 seo:
   title: 🪇 Clases de Salsa y Bachata en Centro Zig-Zag Murcia 💃🏻🕺🏻
   desc: Disfruta de un ambiente genial donde conectar y socializar mientras aprendes a bailar y sudas de alegría en Zig-Zag Murcia. ¡Reserva tu clase hoy!

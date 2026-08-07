@@ -2,7 +2,7 @@
 slug: molina-de-segura
 title: Molina de Segura
 kw: Molina de Segura
-img: /u/carteles/horarios-2025-2026.jpg
+img: /u/carteles/horarios-2026-2027.jpg
 seo:
   title: 🪇 Clases de Salsa y Bachata en Molina de Segura 💃🏻🕺🏻
   desc: Disfruta de un ambiente genial donde conectar y socializar mientras aprendes a bailar y sudas de alegría en Molina de Segura. ¡Reserva tu clase hoy!
