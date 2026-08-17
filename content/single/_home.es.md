@@ -9,7 +9,7 @@ seo:
   desc: Disfruta de un ambiente genial donde conectar y socializar mientras aprendes a bailar y sudas de alegría. ¡Reserva tu clase hoy! ☎️ 696 613 665
 tpl:
   sections:
-  - file: _header
+  - file: _hero
   - file: videos
   - file: razones
   - file: horarios

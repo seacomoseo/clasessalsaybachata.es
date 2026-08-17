@@ -8,7 +8,7 @@ seo:
   desc: Disfruta de un ambiente genial donde conectar y socializar mientras aprendes a bailar y sudas de alegría en Zig-Zag Murcia. ¡Reserva tu clase hoy!
 tpl:
   sections:
-  - file: _header
+  - file: _hero
   - file: videos
   - file: razones
   - file: horarios
