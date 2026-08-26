@@ -37,7 +37,7 @@ Las clases grupales vigentes se imparten únicamente en ActivaT El Palmar, en ca
 
 Esta realidad operativa no autoriza por sí sola a modificar la portada o las páginas geográficas: seguir las decisiones de [`seo.md`](seo.md).
 
-El horario válido es el que aparece en el cartel actual del curso 2026/2027.
+El cartel verificado del curso 2026/2027 fija las clases en ActivaT El Palmar los martes y jueves de 21:00 a 23:00. El martes se anuncia iniciación; el jueves, iniciación y nivel medio. No deducir cambios posteriores sin un cartel nuevo verificado.
 
 ## Conversión y contacto
 

@@ -17,7 +17,7 @@ La propuesta combina aprendizaje técnico, diversión, socialización y atenció
 
 - Priorizar WhatsApp; mantener llamadas y formularios como vías secundarias.
 - No inventar precios, mensualidades, bonos, matrículas, plazas disponibles, equilibrio entre roles ni otros datos no confirmados. Remitir estas consultas a WhatsApp.
-- El horario vigente es el publicado en el cartel actual. Está pendiente un cartel para el próximo curso: no anticipar ni deducir el nuevo horario.
+- El cartel verificado del curso 2026/2027 es la fuente vigente: clases en ActivaT El Palmar, martes y jueves de 21:00 a 23:00. No anticipar horarios posteriores sin un cartel nuevo verificado.
 - No añadir localidades ni reformular, retirar o redirigir las páginas geográficas existentes sin una decisión SEO específica.
 - No convertir de forma automática El Palmar en el foco geográfico de la portada ni reescribir las ubicaciones públicas a partir del contexto interno del negocio.
 

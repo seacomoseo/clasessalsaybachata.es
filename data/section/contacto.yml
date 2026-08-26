@@ -36,7 +36,7 @@ boxes:
     - type: area
       name: Mensaje
       req: true
-  - hanchor: Academia de baile con clases de salsa y bachata en Murcia junto al Zig Zag
+  - hanchor: Clases de salsa y bachata en ActivaT El Palmar
     rate: 4/3
     geos:
     - type: point

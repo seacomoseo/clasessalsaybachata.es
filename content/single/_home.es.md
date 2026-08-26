@@ -53,12 +53,12 @@ org:
   - 696 613 665
   address:
   - name: 🪇 Clases de Salsa y Bachata en Murcia 💃🏻🕺🏻
-    street: C. Abenarabi, 5
-    pc: '30008'
-    locality: Murcia
+    street: C. Lorca, 44
+    pc: '30120'
+    locality: El Palmar
     region: Murcia
     country: ES
-    geo: '{"type":"Point","coordinates":[-1.1304022,37.9973732]}'
+    geo: '{"type":"Point","coordinates":[-1.1651046,37.9418382]}'
     url: https://g.page/r/CQI3T3wmeAB6EBM
   areas:
   - Murcia
@@ -69,16 +69,10 @@ org:
   - Lorquí
   when:
   - days:
-      mon: true
-      wed: true
-    hours:
-    - open: 20:00
-      close: 22:00
-  - days:
       tue: true
       thu: true
     hours:
-    - open: 20:00
+    - open: 21:00
       close: 23:00
   prices: €€
   services:
