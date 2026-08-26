@@ -37,7 +37,7 @@ Las clases grupales vigentes se imparten únicamente en ActivaT El Palmar, en ca
 
 Esta realidad operativa no autoriza por sí sola a modificar la portada o las páginas geográficas: seguir las decisiones de [`seo.md`](seo.md).
 
-El horario válido es el que aparece en el cartel actual del curso 2025/2026. Está pendiente su sustitución para el próximo curso. Mantenerlo hasta que se proporcione el cartel nuevo y no deducir cambios provisionales.
+El horario válido es el que aparece en el cartel actual del curso 2026/2027.
 
 ## Conversión y contacto
 

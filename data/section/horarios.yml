@@ -6,7 +6,7 @@ div: squares
 pb: 8
 boxes:
 - title: Horarios
-  sub: Curso 2025/2026
+  sub: Curso 2026/2027
   box:
     cols: 2
     btn: hide
