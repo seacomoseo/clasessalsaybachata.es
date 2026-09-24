@@ -80,14 +80,14 @@ org:
     area: Murcia
   - title: Clases de Salsa y Bachata en Centro Zig-Zag Murcia
     area: Centro Zig-Zag Murcia
-    url: https://clasessalsaybachata.es/zig-zag-murcia/
+    url: /zig-zag-murcia/
   - title: Clases de Salsa y Bachata en Molina de Segura
     area: Molina de Segura, Murcia
-    url: https://clasessalsaybachata.es/molina-de-segura/
+    url: /molina-de-segura/
   - title: Clases de Salsa y Bachata en Altorreal
     area: Altorreal, Murcia
-    url: https://clasessalsaybachata.es/altorreal/
+    url: /altorreal/
   - title: Clases de Salsa y Bachata en Lorquí
     area: Lorquí, Murcia
-    url: https://clasessalsaybachata.es/lorqui/
+    url: /lorqui/
 ---
